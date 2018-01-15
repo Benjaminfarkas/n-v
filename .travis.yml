@@ -1,5 +1,5 @@
 language: csharp
 solution: Git hub.sln
 install:
-- sudo apt-get install -y gtk-sharp2
-- nuget restore Git hub.sln
+ - sudo apt-get install -y gtk-sharp2
+ - nuget restore Git hub.sln
